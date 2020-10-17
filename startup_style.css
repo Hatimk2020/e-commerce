@@ -1,0 +1,134 @@
+body{
+  color: #1d2124;
+  font-family: 'Roboto Slab', serif;
+
+}
+
+.nav-brand{
+  margin-left: 20%;
+}
+#navbarNavAltMarkup{
+  margin-left: 60%;
+}
+.col-lg-6{
+  text-align: left;
+
+}
+#title{
+  padding: 5% 15% 5%;
+  background-color: #ffcbcb;
+}
+#feature-box{
+  background-color: #ad9d9d;
+}
+#pricing{
+background-color: #8d448b;
+}
+#contact-info{
+  margin: auto;
+  background-color: cadetblue;
+
+
+}
+
+.topi-image1{
+  height: 250px;
+  width: 250px;
+  margin-right: 2.5rem;
+  border: 5px solid #87431d;
+}
+.topi-image2{
+  height: 250px;
+  width: 250px;
+  align-items:center;
+  float: right;
+  margin-right: 10%;
+   border: 5px solid #87431d;
+
+}
+.tittle-top{
+  margin-top: 20%;
+  font-family: 'Roboto Slab', serif;"
+}
+p{
+  padding-top: 30%;
+}
+.image-feature{
+  height: 300px;
+  width: 300px;
+  margin-left: 40%;
+  margin-top: 2%;
+}
+.feature-h3{
+  padding-top: 2%;
+  text-align: center;
+}
+
+.feature-h4{
+margin-left: 50%;
+}
+.col-md-4{
+  padding-top: 5%;
+}
+.carousel-item {
+    transition-duration: 2s;
+}
+.col-md-6{
+  padding-top: 5%;
+}
+.container1{
+  align-items: center;
+  margin-left: 10%;
+    background-color: #f18a9b;
+    margin-right: 10%;
+    padding-right: 40px;
+}
+.pricing-column2{
+  margin-top: 5%;
+}
+.row{
+  padding-left: 5%;
+padding-top: 20px;
+}
+.h2{
+  font-family: 'Roboto Slab', serif;
+}
+.contact-container{
+  text-align: center;
+  padding-top: 80px;
+    padding-bottom: 80px;
+
+}
+.card-text{
+  color: black;
+  text-align: center;
+}
+.card-img-top{
+  height: 250px;
+  width:250px;
+  margin-top: 30px;
+  margin-left: 30px;
+  align-items: center;
+}
+.nav-item{
+  align-content: flex-start;
+}
+.social-icon{
+  margin: 20px 10px;
+}
+hr{
+   border-top: 5px dotted #ff5200;
+  width:50%
+}
+.col-lg-4{
+  border:
+}
+
+h3{
+  line-height: 1.5;
+}
+.logo{
+  height: 80px;
+  padding-right: 15px;
+  padding-left: 5px;
+}
